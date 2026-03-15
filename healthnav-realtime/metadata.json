@@ -1,0 +1,7 @@
+{
+  "name": "HealthNav",
+  "description": "Premium emergency hospital finder with real-time location tracking and AI-powered health visualizations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
